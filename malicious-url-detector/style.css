@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 250px;
+  padding: 10px;
+  background: #f4f6f9;
+}
+h2 {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+#url {
+  font-size: 12px;
+  margin: 8px 0;
+  word-wrap: break-word;
+}
+#status {
+  font-weight: bold;
+  margin-top: 10px;
+}
