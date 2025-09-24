@@ -22,9 +22,3 @@ A simple browser extension that detects potentially malicious or suspicious URLs
 1. Clone or download this repo.
 2. In Firefox: open `about:debugging#/runtime/this-firefox` → "Load Temporary Add-on" → select `manifest.json`.
 3. In Chrome/Edge: go to `chrome://extensions/` → Enable Developer Mode → "Load unpacked" → select project folder.
-
-## 📷 Screenshots
-*(Add your popup screenshot here!)*
-
-## 📄 License
-MIT License
